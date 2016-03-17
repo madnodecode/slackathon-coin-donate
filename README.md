@@ -1,0 +1,2 @@
+# coin-donate
+Not just any NGO, but any affected (natural / medical / education / homeless) individual can request for BTC by providing some basic info. Contributors can verify the authenticity / account balance etc before donating. This project tries to address any individual's financial demands, who even do not need a bank account and the donation reaches the individual directly instead of a middleman such as NGO. 
